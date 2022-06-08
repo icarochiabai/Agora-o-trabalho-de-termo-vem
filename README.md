@@ -49,6 +49,8 @@ Digite os valores desejados para a **temperatura da isoterma**, seguido pelo **v
 
    <img src="./.imgreadme/p3.png" alt="drawing"/>
 
-Após isso, o programa vai pedir pra você salvar o arquivo **dentro da pasta ISOTERMAS**, seguindo o nome **isotermaXXX** onde `XXX` representa a temperatura que você tá calculando **(isso vai ser importante na hora de gerar os gráficos!!)**
+Após isso, o programa vai pedir pra você salvar o arquivo **dentro da pasta ISOTERMAS**, seguindo o nome **isotermaXXX** onde `XXX` representa a temperatura que você tá calculando.
+
+**`ISSO VAI SER IMPORTANTE NA HORA DE GERAR OS GRÁFICOS!!!`**
 
    <img src="./.imgreadme/p4.png" alt="drawing"/>
