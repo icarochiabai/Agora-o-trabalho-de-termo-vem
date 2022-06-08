@@ -43,7 +43,8 @@ Agora entre na parte de Isotermas do PropTerm e selecione a opção [1] do nosso
 
 <img src="./.imgreadme/p2.png" alt="drawing"/>
   
- 
+Digite os valores desejados para a **temperatura da isoterma**, seguido pelo **valor inicial da pressão (que vai variar até chegar em 1 bar)** e a **quantidade que a pressão vai diminuir** a cada cálculo. **LEMBRE-SE DE DEIXAR O PROPTERM TOTALMENTE VISÍVEL, PARA QUE O PROGRAMA CONSIGA ENXERGAR OS BOTÕES PARA CLICAR NELES!!!**
 <img src="./.imgreadme/p3.png" alt="drawing"/>
-  
+
+Após isso, o programa vai pedir pra você salvar o arquivo **dentro da pasta ISOTERMAS**, seguindo o nome **isotermaXXX** onde `XXX` representa a temperatura que você tá calculando **(isso vai ser importante na hora de gerar os gráficos!!)**
 <img src="./.imgreadme/p4.png" alt="drawing"/>
