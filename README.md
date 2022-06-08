@@ -53,4 +53,10 @@ Após isso, o programa vai pedir pra você salvar o arquivo **dentro da pasta IS
 
 **`ISSO VAI SER IMPORTANTE NA HORA DE GERAR OS GRÁFICOS!!!`**
 
+Depois de salvar o arquivo, clique no terminal e aperte `enter`, o programa cuidará do resto. 
+
+**`SEU COMPUTADOR FICARÁ OCUPADO PREENCHENDO AS INFORMAÇÕES, NÃO DÁ PRA USAR ELE PRA OUTRAS COISAS, ENTÃO SEPARE ALGUNS MINUTOS NA HORA QUE FOR FAZER OS CÁLCULOS.`**
+
+**`SE DER ALGUMA MERDA (IMPROVÁVEL), SEGURE A TECLA ALT QUE O PROGRAMA SERÁ ENCERRADO E SEU MOUSE VAI SER LIBERADO PRA USO.`**
+
    <img src="./.imgreadme/p4.png" alt="drawing"/>
