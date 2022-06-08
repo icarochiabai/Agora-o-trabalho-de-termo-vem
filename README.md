@@ -1,5 +1,5 @@
-# Agora-o-trabalho-de-termo-vem
-Script em Python pra ajudar o pessoal da Eng. de Alimentos da Unicamp com o trabalho de Termo nem um pouco chato. 🤡
+# Agora o trabalho de Termo vem!
+Script em Python pra ajudar o pessoal da Eng. de Alimentos da Unicamp com o trabalho de Termo nem um pouco chato 🤡
 
 # Como usar???
 Caso não tenha, você precisa baixar a linguagem de programação Python, segue um breve tutorial:
@@ -26,3 +26,9 @@ Digite a seguinte linha de comando no terminal (ou abra o arquivo "Instalar depe
 `pip install matplotlib opencv-python pandas keyboard pyautogui`
 
 <img src="./.imgreadme/termcommand.png" alt="drawing" height="400"/>
+
+
+## Usando o programa
+*Antes de tudo, o PropTerm deve estar aberto.*
+
+Abra o arquivo
