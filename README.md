@@ -67,16 +67,17 @@ Após o término do programa, se tudo correr bem, a isoterma será calculada, sa
    
 ### Envelope
 
-Semelhante ao caso das isotermas, mas entrando na parte de Envelope e selecionando a opção [2] do nosso programa, devemos obter uma tela parecida com o que tá abaixo 
+Semelhante ao caso das isotermas, mas entrando na parte de Envelope e selecionando a opção [2] do nosso programa, devemos obter uma tela parecida com o que tá abaixo
+
    <img src="./.imgreadme/p21.png" alt="drawing"/>
 
 Digite os valores para a **temperatura crítica** da substância, seguido pelo **valor inicial da temperatura (que vai variar até a temperatura crítica)** e **quanto que a temperatura vai DIMINUIR (se você quer que ela aumente, então o valor deve ser negativo, como no exemplo!!)**
+
    <img src="./.imgreadme/p22.png" alt="drawing"/>
   
 **`LEMBRE-SE DE DEIXAR O PROPTERM TOTALMENTE VISÍVEL, PARA QUE O PROGRAMA CONSIGA ENXERGAR OS BOTÕES PARA CLICAR NELES!!!`**
 
-
-Após isso, o programa vai pedir pra você salvar o arquivo **dentro da pasta ISOTERMAS**, seguindo o nome **isotermaXXX** onde `XXX` representa a temperatura que você tá calculando.
+Após isso, o programa vai pedir pra você salvar o arquivo **dentro da pasta ENVELOPE**, seguindo exatamente o nome **envelope**, importante dizer que só pode ter um arquivo com o nome envelope nessa pasta.
 
 **`ISSO VAI SER IMPORTANTE NA HORA DE GERAR OS GRÁFICOS!!!`**
 
