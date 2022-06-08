@@ -7,7 +7,7 @@ Caso não tenha, você precisa baixar a linguagem de programação Python, segue
 ## Instalando a linguagem Python
 Abra a barra de pesquisa do Windows e procure pela loja da Microsoft, como na figura abaixo
 
-<img src="./.imgreadme/mstore.png" alt="drawing" height="200"/>
+<img src="./.imgreadme/mstore.png" alt="drawing" height="400"/>
 
 Procure por "python" na barra de pesquisa e selecione a versão indicada na figura abaixo
 
