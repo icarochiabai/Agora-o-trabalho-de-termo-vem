@@ -29,6 +29,7 @@ Digite a seguinte linha de comando no terminal (ou abra o arquivo "Instalar depe
 
 
 ## Usando o programa
-*Antes de tudo, o PropTerm deve estar aberto.*
+**Antes de tudo, o PropTerm deve estar aberto.**
 
-Abra o arquivo
+Abra o arquivo `Preencher PropTerm`. Existem 2 opções, calcular o envelope ou uma isoterma, que estão detalhadas abaixo:
+* **Envelope**:
