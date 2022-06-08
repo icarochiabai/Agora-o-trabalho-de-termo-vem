@@ -1,0 +1,1 @@
+pip install matplotlib opencv-python pandas keyboard pyautogui
