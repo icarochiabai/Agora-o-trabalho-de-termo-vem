@@ -33,7 +33,11 @@ Digite a seguinte linha de comando no terminal (ou abra o arquivo "Instalar depe
 
 Abra o arquivo `Preencher PropTerm`. Existem 2 opções: calcular uma isoterma; calcular um envelope. Estas duas opções estão detalhadas abaixo:
 * **Isotermas**: para o cálculo das isotermas, entre na seção de isotermas do PropTerm e selecione a opção [1] do nosso programa.
+* 
   <img src="./.imgreadme/p1.png" alt="drawing" height="400"/>
+  
   <img src="./.imgreadme/p2.png" alt="drawing" height="400"/>
+  
   <img src="./.imgreadme/p3.png" alt="drawing" height="400"/>
+  
   <img src="./.imgreadme/p4.png" alt="drawing" height="400"/>
