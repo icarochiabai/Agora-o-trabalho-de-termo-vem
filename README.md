@@ -98,3 +98,5 @@ Após o término do programa, se tudo correr bem, o envelope será calculado, sa
 Depois de calcular algumas isotermas e o envelope, basta abrir o arquivo `Gerar gráficos`, digitar o nome da substância que você está estudando e ele vai gerar uma imagem `Gráfico Gerado`, como mostrado abaixo
 
    <img src="./Gráfico Gerado.png" alt="drawing"/>
+
+Desenvolvido por: Ícaro Chiabai @chiabaiicaro
