@@ -39,8 +39,11 @@ Com o programa aberto e com o PropTerm devidamente preenchido, deve-se obter alg
 
 <img src="./.imgreadme/p1.png" alt="drawing"/>
 
+Agora entre na parte de Isotermas do PropTerm e selecione a opção [1] do nosso programa. O resultado deve ser algo parecido com o que tá abaixo
+
 <img src="./.imgreadme/p2.png" alt="drawing"/>
   
+ 
 <img src="./.imgreadme/p3.png" alt="drawing"/>
   
 <img src="./.imgreadme/p4.png" alt="drawing"/>
