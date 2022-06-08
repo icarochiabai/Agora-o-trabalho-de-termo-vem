@@ -31,13 +31,16 @@ Digite a seguinte linha de comando no terminal (ou abra o arquivo "Instalar depe
 ## Usando o programa
 **Antes de tudo, o PropTerm deve estar aberto e os campos das informações sobre a substância devem estar devidamente preenchidos.**
 
-Abra o arquivo `Preencher PropTerm`. Existem 2 opções: calcular uma isoterma; calcular um envelope. Estas duas opções estão detalhadas abaixo:
-* **Isotermas**: para o cálculo das isotermas, entre na seção de isotermas do PropTerm e selecione a opção [1] do nosso programa.
+Abra o arquivo `Preencher PropTerm`. Existem 2 opções: calcular uma isoterma; calcular um envelope. Estas duas opções são detalhadas em seguida
 
-  <img src="./.imgreadme/p1.png" alt="drawing"/>
+### Isotermas
+
+Com o programa aberto e com o PropTerm devidamente preenchido, deve-se obter algo semelhante ao que está sendo mostrado abaixo
+
+<img src="./.imgreadme/p1.png" alt="drawing"/>
+
+<img src="./.imgreadme/p2.png" alt="drawing"/>
   
-  <img src="./.imgreadme/p2.png" alt="drawing"/>
+<img src="./.imgreadme/p3.png" alt="drawing"/>
   
-  <img src="./.imgreadme/p3.png" alt="drawing"/>
-  
-  <img src="./.imgreadme/p4.png" alt="drawing"/>
+<img src="./.imgreadme/p4.png" alt="drawing"/>
