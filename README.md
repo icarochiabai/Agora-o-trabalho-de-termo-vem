@@ -1,7 +1,7 @@
 # Agora o trabalho de Termo vem!
 Script em Python pra ajudar o pessoal da Eng. de Alimentos da Unicamp com o trabalho de Termo nem um pouco chato 🤡
 
-<img src="./.imgreadme/display.gif" alt="drawing" height="650"/>
+<img src="./.imgreadme/display.gif" alt="drawing" height="750"/>
 
 # Como usar???
 Caso não tenha, você precisa baixar a linguagem de programação Python, segue um breve tutorial:
