@@ -90,3 +90,9 @@ Depois de salvar o arquivo, clique no terminal e aperte `enter`, o programa cuid
    <img src="./.imgreadme/p23.png" alt="drawing"/>
 
 Após o término do programa, se tudo correr bem, o envelope será calculado, salvo e será perguntado se o usuário deseja continuar usando o programa.
+
+## Gerando gráficos
+
+Depois de calcular algumas isotermas e o envelope, basta abrir o arquivo `Gerar gráficos`, digitar o nome da substância que você está estudando e ele vai gerar uma imagem `Gráfico Gerado`, como mostrado abaixo
+
+   <img src="./Gráfico Gerado.png" alt="drawing"/>
