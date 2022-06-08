@@ -36,8 +36,8 @@ Abra o arquivo `Preencher PropTerm`. Existem 2 opções: calcular uma isoterma; 
 
   <img src="./.imgreadme/p1.png" alt="drawing"/>
   
-  <img src="./.imgreadme/p2.png" alt="drawing" height="400"/>
+  <img src="./.imgreadme/p2.png" alt="drawing"/>
   
-  <img src="./.imgreadme/p3.png" alt="drawing" height="400"/>
+  <img src="./.imgreadme/p3.png" alt="drawing"/>
   
-  <img src="./.imgreadme/p4.png" alt="drawing" height="400"/>
+  <img src="./.imgreadme/p4.png" alt="drawing"/>
