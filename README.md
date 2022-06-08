@@ -9,7 +9,7 @@ Abra a barra de pesquisa do Windows e procure pela loja da Microsoft, como na fi
 
 ![alt text](./.imgreadme/mstore.png)
 
-Abre a loja e procure por "python" na barra de pesquisa e selecione a versão indicada na figura abaixo
+Procure por "python" na barra de pesquisa e selecione a versão indicada na figura abaixo
 
 ![alt text](./.imgreadme/pythonstore.png)
 
@@ -21,7 +21,8 @@ Após terminar a instalação, abra o prompt de comando procurando por "cmd" na 
 
 ![alt text](./.imgreadme/cmd.png)
 
-Agora digite a seguinte linha de comando no terminal (ou abra o arquivo "Instalar dependencias" na pasta do programa, lembre de executar como administrador caso não dê certo)
+Digite a seguinte linha de comando no terminal (ou abra o arquivo "Instalar dependencias" na pasta do programa, lembre de executar como administrador caso não dê certo)
+
 `pip install matplotlib opencv-python pandas keyboard pyautogui`
 
 ![alt text](./.imgreadme/termcommand.png)
