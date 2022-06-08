@@ -99,4 +99,4 @@ Depois de calcular algumas isotermas e o envelope, basta abrir o arquivo `Gerar 
 
    <img src="./Gráfico Gerado.png" alt="drawing"/>
 
-Desenvolvido por: Ícaro Chiabai @chiabaiicaro
+Ícaro Chiabai @chiabaiicaro
