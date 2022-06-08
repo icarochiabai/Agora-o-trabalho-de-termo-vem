@@ -1,0 +1,1 @@
+python ./scripts/propterm.py
