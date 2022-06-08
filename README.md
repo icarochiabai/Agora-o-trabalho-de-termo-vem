@@ -3,6 +3,14 @@ Script em Python pra ajudar o pessoal da Eng. de Alimentos da Unicamp com o trab
 
 <img src="./.imgreadme/display.gif" alt="drawing" height="800"/>
 
+# O que isso faz?
+
+Esse programa automatiza todos os cliques, digitações e gráficos que tem que gerar pro trabalho de termo (pelo que eu saiba). Então você não precisa ficar colocando valores um em um, clicando em calcular e depois em gravar valores, esse programa faz tudo isso pra você! Ele vê onde os botões estão, move o mouse até lá, digita o que precisa digitar e clica onde precisa clicar!!
+
+# Como baixar?
+
+Clica no botãozinho `"code"` verde ali em cima e clica em `"Download ZIP"`, aí é só extrair e você já tem acesso aos arquivos e pode usar!
+
 # Como usar???
 Caso não tenha, você precisa baixar a linguagem de programação Python, segue um breve tutorial:
 
